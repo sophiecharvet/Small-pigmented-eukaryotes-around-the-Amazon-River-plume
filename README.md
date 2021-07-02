@@ -10,6 +10,6 @@ Joseph Montoya, Georgia Institute of Technology, Atlanta
 
 Solange Duhamel, University of Arizona, Tucson
 
-Samples of seawater were collected from open the ocean water column. 1L was filtered onto 0.2µm PC filters, which were then stored in a mixture of TE-glycerol (0.5mL) and seawater sample (4mL), vortexed to resuspend cells and flash frozen in liquid nitrogen. From these samples, cells were analysed on a flow cytometer, to dientify and sort populations that composed the small (≤ 5µm) pigmented eukaryote communities. 18S rRNA gene were then sequenced from these sorted populations.
+Samples of seawater were collected from the marine water column in and around the Amazon River plume. 1L was filtered onto 0.2µm PC filters, which were then stored in a mixture of TE-glycerol (0.5mL) and seawater sample (4mL), vortexed to resuspend cells and flash frozen in liquid nitrogen. From these samples, cells were analysed on a flow cytometer, to dientify and sort populations that composed the small (≤ 5µm) pigmented eukaryote communities. 18S rRNA gene were then sequenced from these sorted populations.
 
 The scripts (commandlines) presented here were used to analyse the reads produced by three sequencing runs on an Illumina HiSeq platform. 
